@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <parameter name="email" value="kowshik350@gmail.com"/>
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="TestNG.Parameter_DataProvider_IntrvwQtn">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- TestNG.Parameter_DataProvider_IntrvwQtn -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

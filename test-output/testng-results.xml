@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T05:01:54Z" name="Default suite" finished-at="2023-05-18T05:02:09Z" duration-ms="15125">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T05:01:54Z" name="Default test" finished-at="2023-05-18T05:02:09Z" duration-ms="15125">
+      <class name="PractiseFormFilling.FormFillAutomation">
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:PractiseFormFilling.FormFillAutomation@3e8c3cb]" started-at="2023-05-18T10:31:54Z" name="Login" data-provider="getData" finished-at="2023-05-18T10:32:09Z" duration-ms="14544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gdeepak100898@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:PractiseFormFilling.FormFillAutomation@3e8c3cb]" started-at="2023-05-18T10:31:54Z" name="Login" data-provider="getData" finished-at="2023-05-18T10:32:05Z" duration-ms="10277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dilip07kumarg@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass!@#$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:PractiseFormFilling.FormFillAutomation@3e8c3cb]" started-at="2023-05-18T10:31:54Z" name="Login" data-provider="getData" finished-at="2023-05-18T10:32:05Z" duration-ms="10946" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gdeepakkumarsankar@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- PractiseFormFilling.FormFillAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
